@@ -72,10 +72,9 @@ awards:
 
 ## About Me
 
-I am a third-year PhD Candidate at the Institute of Operations Research and Analytics, National University of Singapore.
+Hello! I'm a third-year PhD candidate at the Institute of Operations Research and Analytics, National University of Singapore, where I work on research problems at the intersection of data-driven optimization, inverse optimization, and robust optimization. I’m particularly interested in applying these tools to real-world challenges in transportation systems and matching markets.
 
-I am fortunate to be advised by Melvyn Sim and Ian Zhu at the National University of Singapore, and Ng Wee Siong at the Institute for Infocomm Research, A*STAR. Broadly, my research interests lie in data-driven optimization and incentive design. Methodologically, I focus on inverse optimization, robust optimization, and their intersection, with a particular emphasis on real-world applications in transportation and matching markets. I am especially drawn to research that yields novel insights and methods through the integration of cross-cutting ideas across disciplines.
+I am fortunate to be advised by [Melvyn Sim](https://discovery.nus.edu.sg/768-melvyn-sim) and [Ian Zhu](https://www.ianyzhu.com/) at the National University of Singapore, and Ng Wee Siong at the Institute for Infocomm Research, A*STAR. 
+I am also grateful to be awarded the A*STAR Computing and Information Science Scholarship which funds my PhD studies
 
-I am also thankful to be awarded the A*STAR Computing and Information Science Scholarship which funds my PhD studies. Prior to my PhD, I completed my MSc. in Operations Research at the Department of Mathematics, London School of Economics, and a BEng. in Industrial Engineering at the National University of Singapore.
-
-Outside of academia, I greatly enjoy the outdoors and being active - some of my favourite activities include dragonboating, hiking (which unfortunately is not as accessible in the tiny island of Singapore), and weightlifting. I also enjoy reading mangas and watching anime.
+Outside of academia, I staying active and spending time outdoors - some of my favourite activities include dragonboating, hiking (which unfortunately is not as accessible in the tiny island of Singapore), and weightlifting. I also enjoy reading mangas and watching anime.
