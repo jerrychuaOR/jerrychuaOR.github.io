@@ -44,7 +44,7 @@ interests:
   - Applications in Matching and Transportation
 
 education:
-  - area: PhD Operations Research and Analytics
+  - area: PhD Operations Research and Analytics (Ongoing)
     institution: National University of Singapore
     date_start: 2023-01-01
     date_end: 2027-01-01
