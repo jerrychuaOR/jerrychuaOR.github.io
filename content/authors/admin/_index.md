@@ -34,9 +34,9 @@ profiles:
     url: 'mailto:jerry.chua@u.nus.edu'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jerry-chua-891681141
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=fnm_nvUAAAAJ&hl=en&oi=ao
 
 interests:
   - Robust Optimization
@@ -72,9 +72,7 @@ awards:
 
 ## About Me
 
-Hello! I'm a third-year PhD candidate at the Institute of Operations Research and Analytics, National University of Singapore, where I work on research problems at the intersection of data-driven optimization, inverse optimization, and robust optimization. I’m particularly interested in applying these tools to real-world challenges in transportation systems and matching markets.
-
-I am fortunate to be advised by [Melvyn Sim](https://discovery.nus.edu.sg/768-melvyn-sim) and [Ian Zhu](https://www.ianyzhu.com/) at the National University of Singapore, and Ng Wee Siong at the Institute for Infocomm Research, A*STAR. 
-I am also grateful to be awarded the A*STAR Computing and Information Science Scholarship which funds my PhD studies
+Hello! I'm a third-year PhD candidate at the Institute of Operations Research and Analytics, National University of Singapore, where I am fortunate to be advised by [Melvyn Sim](https://discovery.nus.edu.sg/768-melvyn-sim) and [Ian Zhu](https://www.ianyzhu.com/) at the National University of Singapore, and Ng Wee Siong at the Institute for Infocomm Research, ASTAR. 
+I am also grateful to be awarded the ASTAR Computing and Information Science Scholarship which funds my PhD studies
 
 Outside of academia, I staying active and spending time outdoors - some of my favourite activities include dragonboating, hiking (which unfortunately is not as accessible in the tiny island of Singapore), and weightlifting. I also enjoy reading mangas and watching anime.

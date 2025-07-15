@@ -9,38 +9,35 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+  # - block: resume-biography-3
+  #   content:
+  #     # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: admin
+  #     text: ""
+  #     # Show a call-to-action button under your biography? (optional)
+  #     button:
+  #       text: Download CV
+  #       url: uploads/resume.pdf
+  #   design:
+  #     css_class: dark
+  #     background:
+  #       color: black
+  #       image:
+  #         # Add your image background to `assets/media/`.
+  #         filename: stacked-peaks.svg
+  #         filters:
+  #           brightness: 1.0
+  #         size: cover
+  #         position: center
+  #         parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m passionate about research at the intersection of data-driven optimization, inverse optimization, and robust optimization, with a focus on real-world challenges in transportation systems and matching markets. What excites me most is exploring how ideas from different corners of optimization can come together to spark new insights and methods.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        If you’re interested in collaborating, I’d love to connect! 😄
     design:
       columns: '1'
   - block: collection
