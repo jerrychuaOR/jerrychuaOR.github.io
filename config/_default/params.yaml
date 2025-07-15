@@ -58,3 +58,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Hide Teaching Section
+homepage:
+  sections:
+    - widget: teaching
+      active: false
