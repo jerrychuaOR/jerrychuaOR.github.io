@@ -15,6 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -32,7 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I work on research problems at the intersection of data-driven optimization, inverse optimization, and robust optimization. I’m particularly interested in applying these tools to real-world challenges in transportation systems and matching markets.
+        My research
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please reach out to collaborate 😃
     design:
