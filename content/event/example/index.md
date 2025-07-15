@@ -2,7 +2,7 @@
 title: Impact analysis of environmental policies on shipping fleet planning under demand uncertainty
 
 event: Informs Annual Meeting 2023
-event_url: https://example.org
+event_url: https://meetings.informs.org/wordpress/phoenix2023/
 
 location: Phoenix, AZ
 
@@ -10,12 +10,12 @@ summary: This work analyzes the potential impacts of certain ETS schemes for lin
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-07-01'
-date_end: '2023-07-01'
+date: '2023-10-15'
+date_end: '2023-10-18'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-07-01'
+publishDate: '2023-03-01'
 
 authors:
   - admin
@@ -26,7 +26,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 #links:
