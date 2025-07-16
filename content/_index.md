@@ -35,22 +35,24 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I’m passionate about research at the intersection of data-driven optimization, inverse optimization, and robust optimization, with a focus on real-world challenges in transportation systems and matching markets. What excites me most is exploring how ideas from different corners of optimization can come together to spark new insights and methods.
+        My research lies at the intersection of data-driven optimization, inverse optimization, and robust optimization, with a particular focus on addressing real-world challenges in transportation systems and matching markets.
+
+        I am especially drawn to research that integrates ideas from across different areas of optimization, aiming to uncover new insights and develop novel methodologies, and believe that these synergies may lead to more effective, practical solutions for complex systems.
 
         If you’re interested in collaborating, I’d love to connect! 😄
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
     content:
       title: Recent Publications

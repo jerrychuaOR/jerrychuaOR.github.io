@@ -75,4 +75,4 @@ awards:
 Hello! I'm a third-year PhD candidate at the Institute of Operations Research and Analytics, National University of Singapore, where I am fortunate to be advised by [Melvyn Sim](https://discovery.nus.edu.sg/768-melvyn-sim) and [Ian Zhu](https://www.ianyzhu.com/) at the National University of Singapore, and Ng Wee Siong at the Institute for Infocomm Research, ASTAR. 
 I am also grateful to be awarded the ASTAR Computing and Information Science Scholarship which funds my PhD studies
 
-Outside of academia, I staying active and spending time outdoors - some of my favourite activities include dragonboating, hiking (which unfortunately is not as accessible in the tiny island of Singapore), and weightlifting. I also enjoy reading mangas and watching anime.
+Outside of academia, I enjoy staying active and spending time outdoors - some of my favourite activities include dragonboating, hiking and weightlifting. I also enjoy reading mangas and watching anime.
