@@ -1,5 +1,6 @@
 ---
-title: "An example journal article"
+title: Hidden
+active: false
 authors:
 - admin
 - Robert Ford
