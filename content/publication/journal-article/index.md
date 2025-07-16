@@ -1,7 +1,6 @@
 ---
 title: Hidden
 active: false
-hidden: true
 authors:
 - admin
 - Robert Ford
