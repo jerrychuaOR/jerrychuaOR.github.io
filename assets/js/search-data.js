@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "To be updated",
@@ -369,14 +376,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-i-will-be-presenting-work-on-the-inverse-feasible-region-for-discrete-optimization-at-the-informs-computing-society-conference-2025-at-university-of-toronto",
+            },},{id: "news-i-will-be-presenting-work-on-the-inverse-feasible-region-for-discrete-optimization-at-the-informs-computing-society-conference-2025",
           title: 'I will be presenting work on the Inverse feasible region for discrete optimization...',
           description: "",
           section: "News",},{id: "news-i-will-be-presenting-work-on-the-inverse-feasible-region-for-discrete-optimization-at-analytics-for-x-2025",
           title: 'I will be presenting work on the inverse feasible region for discrete optimization...',
           description: "",
-          section: "News",},{id: "news-our-paper-inverse-optimization-with-discrete-decisions-is-finally-up-on-ssrn",
-          title: 'Our paper, “Inverse Optimization with Discrete Decisions” is finally up on SSRN!',
+          section: "News",},{id: "news-our-paper-inverse-optimization-with-discrete-decisions-is-up-on-ssrn",
+          title: 'Our paper, “Inverse Optimization with Discrete Decisions” is up on SSRN!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
