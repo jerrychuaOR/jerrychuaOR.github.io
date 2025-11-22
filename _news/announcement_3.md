@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, "Inverse Optimization with Discrete Decisions" is finally up on SSRN!
+Our paper, "Inverse Optimization with Discrete Decisions" is up on SSRN!

@@ -32,5 +32,3 @@ I am also grateful to be awarded the ASTAR Computing and Information Science Sch
 My research lies at the intersection of data-driven optimization, inverse optimization, and robust optimization, with a particular focus on addressing real-world challenges in transportation systems and matching markets. 
 
 I am especially drawn to research that integrates ideas from across different areas of optimization, aiming to uncover new insights and develop novel methodologies, and believe that these synergies may lead to more effective, practical solutions for complex systems. 
-
-Outside of academia, I enjoy staying active and spending time outdoors - some of my favourite activities include dragonboating, hiking and weightlifting. I also deeply enjoy listening to rock (music, not the actor, that would be strange) and reading mangas!

@@ -187,7 +187,7 @@ exclude:
   - _pages/projects.md
   - _pages/books.md
   - _pages/repositories.md
-  - _pages/cv.md
+  # - _pages/cv.md
   - _pages/dropdown.md
   - _pages/profiles.md
   # - _pages/teaching.md #for now, exclude teaching page
@@ -383,7 +383,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
@@ -634,7 +634,7 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json: assets/json/resume.json # it can also be an url
+    json: #assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics

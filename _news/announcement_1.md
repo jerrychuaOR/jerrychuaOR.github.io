@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting work on the Inverse feasible region for discrete optimization at the Informs Computing Society Conference 2025 at University of Toronto!
+I will be presenting work on the Inverse feasible region for discrete optimization at the Informs Computing Society Conference 2025!
