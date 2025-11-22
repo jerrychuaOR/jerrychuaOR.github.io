@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://iora.nus.edu.sg'>Institute of Operations Research and Analytics, National University of Singapore</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_profile.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>Innovation 4.0, #04-01</p>
+  #   <p>3 Research Link</p>
+  #   <p>Singapore, Singapore 117602</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,15 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Hello! I'm a fourth-year PhD candidate at the Institute of Operations Research and Analytics, National University of Singapore, where I am fortunate to be advised by [Melvyn Sim](https://discovery.nus.edu.sg/768-melvyn-sim) and [Ian Zhu](https://www.ianyzhu.com/) at the National University of Singapore, and Ng Wee Siong at the Institute for Infocomm Research, ASTAR. 
+I am also grateful to be awarded the ASTAR Computing and Information Science Scholarship which funds my PhD studies
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research lies at the intersection of data-driven optimization, inverse optimization, and robust optimization, with a particular focus on addressing real-world challenges in transportation systems and matching markets. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am especially drawn to research that integrates ideas from across different areas of optimization, aiming to uncover new insights and develop novel methodologies, and believe that these synergies may lead to more effective, practical solutions for complex systems. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of academia, I enjoy staying active and spending time outdoors - some of my favourite activities include dragonboating, hiking and weightlifting. I also deeply enjoy listening to rock (music, not the actor, that would be strange) and reading mangas!

@@ -1,9 +1,16 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"OR":
+  url: https://pubsonline.informs.org/journal/opre
+  color: "#31377d"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"MS":
+  url: https://pubsonline.informs.org/journal/mnsc
+  color: "#acaed2"
 
-"Vision":
-  color: "#009f36"
+"Explainable Opt":
+  color: "#32a875"
+
+"Transportation":
+  color: "#a8326f"
+
+"Uncertain DM":
+  color: "#4032a8"
